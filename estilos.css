@@ -1,0 +1,135 @@
+* {
+    margin: px;
+}
+
+.cuerpo{
+    background-image: url(WhatsApp\ Image\ 2021-11-13\ at\ 6.52.07\ AM.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.tPrincipal{
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(250, 67, 113);
+}
+
+.contenido{
+    font-size: 20px;
+    color: rgb(49, 133, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+.no01{
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+.bprincipal{
+    color: rgb(241, 234, 234);
+    width: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(255, 86, 108);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    border: none;
+    border-radius: 15%;
+}
+
+/**/
+
+.cuero{
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.redes{
+     background-color: rgb(132, 221, 81);
+     display: flex;
+     height: 100px;
+     justify-content: space-around;
+     align-items: center;  
+}
+
+.menu{
+    background-color: rgb(151, 199, 63);
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around ;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.menu_logo{
+    height: 80px;
+}
+
+.menulista{
+    display: flex;
+
+}
+.menuelemento{
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    list-style: none;
+    font-weight: bold;
+    color: rgb(162, 243, 162);
+}
+
+.menulilink:link{
+    text-decoration: none;
+}
+.menulilink:hover{
+    color: rgb(255, 255, 255);
+}
+
+.logosr{
+   height: 50px;
+}
+
+.piesito{
+    background: linear-gradient(rgb(29, 153, 35), rgb(8, 184, 87));
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    margin-top: 100px;
+}
+.main{
+    display: flex ;
+    align-items:center;
+    background-color: rgb(85, 211, 81);
+}
+
+.main_imagen{
+    height: 380px;
+    margin: 100px;
+
+}
+.main_main{
+    text-align:center;
+    margin: 100px;
+    
+}
+.main_boton{
+    color: rgb(241, 234, 234);
+    width: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: rgb(21, 197, 65);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: none;
+    border-radius: 15%;
+}
